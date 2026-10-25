@@ -1,2 +1,2 @@
 # Quiz
-Computer Science student and developer building responsive web applications, interactive tools, and efficient software solutions. Passionate about translating complex core concepts into clean, performant user experiences.
+Test your prompt engineering, AI literacy, and model knowledge in this fast-paced quiz on modern artificial intelligence concepts.
